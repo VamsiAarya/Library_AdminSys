@@ -2,11 +2,11 @@
 Library management system admin dashboard 
 
 Functionalities:
- -> Adding book to the library
- -> Issuing a book to the user
- -> Receiving book from user
- -> Search for a book in the library
- -> Creating a user account.
+ 1) Adding book to the library
+ 2) Issuing a book to the user
+ 3) Receiving book from user
+ 4) Search for a book in the library
+ 5) Creating a user account.
  
  An application to track the books issued and received by the librarian.
  
